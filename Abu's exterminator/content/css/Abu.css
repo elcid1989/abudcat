@@ -1,0 +1,19 @@
+body { 
+    background: #383535;
+    font-family: 'Source Serif Pro', serif;
+}
+#mainNavbar {
+    color: aqua;
+    font-size: 1.5rem;
+}
+#mainNavbar .nav-link {
+    color:white;
+}
+
+#mainNavbar .nav-link:hover {
+    color:rgb(24, 22, 22);
+}
+#mainNavbar .navbar-brand {
+    color: aqua;
+    font-size: 1.5rem;
+}

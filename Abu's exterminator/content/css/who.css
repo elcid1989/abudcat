@@ -1,0 +1,26 @@
+body { 
+    background: #383535;
+    font-family: 'Source Serif Pro', serif;
+    padding-top: 100px;
+}
+#mainNavbar {
+    color: aqua;
+    font-size: 1.5rem;
+}
+#mainNavbar .nav-link {
+    color:white;
+}
+
+#mainNavbar .nav-link:hover {
+    color:rgb(24, 22, 22);
+}
+#mainNavbar .navbar-brand {
+    color: rgb(236, 62, 18);
+    font-size: 1.5rem;
+}
+p {
+    font-family: 'Bebas Neue', cursive;
+}
+h1 {
+    font-family: 'Creepster', cursive
+}
